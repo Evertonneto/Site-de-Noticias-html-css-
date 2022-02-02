@@ -184,6 +184,34 @@ input.submit{
 	border:2px solid #870529 
 }
 
+/*----Formatação imgs---*/
+
+img.img-principal{
+	width: 98%;
+	border: 3px solid #dfdfdf;
+
+}
+/*-----formatação cabeçalhos---*/
+.destaque h3{
+	text-transform: uppercase;
+	display: inline;
+	font-size: 1em;
+	padding: 3px;
+
+	background: #b10333;
+	color: #fff;
+}
+
+.entrevista h3{
+	text-transform: uppercase;
+	display: inline;
+	font-size: 1em;
+	padding: 3px;
+
+	background: #de003e;
+	color: #000;
+}
+
 /*-------rodapé------- */
 #container-rodape{
 	background: #294c71;
